@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\vero NAT GEO\Desktop\MWS\flutter_app\build\windows\x64\CMakeFiles\c02c876907700b72d8e01b85f1e93162\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{05D35818-738A-337B-A809-FBF1467EC80F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
